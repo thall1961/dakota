@@ -1,0 +1,23 @@
+.ce-row-icon {
+  stroke-width: 0px;
+  fill-opacity: 1;
+  stroke: rgb(153, 153, 153);
+  stroke-opacity: 1;
+  fill: rgb(139, 163, 178);
+}
+
+.text-serif {
+  font-family: serif;
+}
+
+.text-info-light {
+  color: #8ba3b2 !important;
+}
+
+.bg-dark {
+  background-color: #1f1f1f !important;
+}
+
+.bg-light-gray {
+  background-color: #3f3f3f !important;
+}
